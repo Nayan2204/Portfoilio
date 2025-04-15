@@ -1,0 +1,280 @@
+/* Reset some default styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+ *:hover{
+   
+  color: rgb(9, 9, 31);
+
+ }
+ 
+
+.d1 {
+  width: 100%;
+  height: 70px;
+  padding: 10px;
+  color: rgb(18, 4, 5);
+  font-size: larger;
+  background-color: rgb(106, 105, 178);
+  font-style:normal;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  word-spacing: 5px;
+}
+
+.active{
+  font-size: small;
+  color: black;
+  justify-content: space-evenly;
+  
+}
+
+.d2 {
+  margin: 2px;
+  width:100%;
+  height:460px;
+  color: rgb(214, 222, 224);
+  align-items: center;
+  text-align: center;
+  background-color: rgb(40, 30, 170);
+  border-radius: 20px;
+  animation-iteration-count: infinite;
+  animation-name:inherit;
+  animation-timing-function: ease-in;
+  animation-direction: normal;
+
+  
+}
+.d21 {
+  width: 25%;
+  margin: 1px;
+  margin-top: 30px;
+  margin-left: 475px;
+  background-color: rgb(187, 202, 22);
+  height: 300px;
+  color: brown;
+  text-align: justify;
+  padding: 10px;
+  border-radius: 50%;
+  text-align: center;
+  
+}
+.my-profile {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.a1{
+  width:1200px;
+  height:500px;
+  margin-top: 1px;
+  background-color: rgb(214, 38, 182);
+  text-align: center;
+  border-radius: 20px;
+  align-content: center;
+  align-items: center;
+  margin-left: 30px;
+  font-size: larger;
+  color: aliceblue;
+  display: flex;
+}
+.container-sm{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: rgba(58, 26, 139, 0.646);
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.container-md{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: rgba(58, 26, 139, 0.646);
+  margin-left: 30px;
+  border-radius: 20px;
+  
+
+}
+.container-lg{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: rgba(58, 26, 139, 0.646);
+  margin-left: 30px;
+  border-radius: 20px;
+  
+
+
+}
+.container-xl{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color:  rgba(58, 26, 139, 0.646);
+  margin-left: 30px;
+  border-radius: 20px;
+  
+
+
+}
+.container-xxl{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: rgba(58, 26, 139, 0.646);
+  margin-left: 30px;
+  border-radius: 20px;
+
+
+}
+.a2{
+  width:1200px;
+  height:500px;
+  margin-top: 1px;
+  background-color: rgb(214, 38, 182);
+  text-align: center;
+  border-radius: 20px;
+  align-content: center;
+  align-items: center;
+  margin-left: 30px;
+  font-size: larger;
+  color: aliceblue;
+  display: flex;
+}
+
+.p1{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.p2{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.p3{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.p4{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.p5{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+
+
+.a3{
+  width:1200px;
+  height:500px;
+  margin-top: 1px;
+  background-color: rgb(214, 38, 182);
+  text-align: center;
+  border-radius: 20px;
+  align-content: center;
+  align-items: center;
+  margin-left: 30px;
+  font-size: larger;
+  color: aliceblue;
+  display: flex;
+  
+}
+.f1{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.f2{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.f3{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.f4{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+.f5{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  outline: 1px;
+  background-color: chocolate;
+  margin-left: 30px;
+  border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
